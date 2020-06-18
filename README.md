@@ -8,6 +8,7 @@ Es una plataforma que permite al usuario ver sus conocimientos acerca del fútbo
 Para ingresar a esta plataforma y acceder a las preguntas, necesitarás:
 
 1. Escribir tu nombre y darle click al        botón "continuar".
+![WhatsApp Image 2020-06-18 at 15 53 38](https://user-images.githubusercontent.com/65095938/85076584-04a6dd80-b186-11ea-82d6-f2064d444c36.jpeg)
 
 2. En la siguiente ventana podrás escoger    entre dos opciones: 
    * Perú en el Mundial  
